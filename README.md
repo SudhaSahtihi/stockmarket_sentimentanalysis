@@ -52,7 +52,6 @@ Insight 3 - Neutral sentiment days were least profitable overall
 The interactive dashboard visualizes:
 - Average Closed PnL by Sentiment and Trade Side
 - Trade distribution by sentiment
-- Filters for Coin, Side, and Sentiment
 
 ![Avg Closed PnL by Sentiment & Side](avgclosedpnl.png) 
 
