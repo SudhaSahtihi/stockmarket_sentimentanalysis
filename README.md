@@ -54,7 +54,9 @@ The interactive dashboard visualizes:
 - Trade distribution by sentiment
 - Filters for Coin, Side, and Sentiment
 
-🖼️ *[Insert Screenshot]*  
+![Avg Closed PnL by Sentiment & Side](avgclosedpnl.png) 
+
+![Trade Distribution by Sentiment](tradebysentiment.png)
 
 ## Folder Contents
 
